@@ -1,0 +1,14 @@
+# competition data and generated files
+data/*
+!data/README.md
+submissions/
+
+# course material and competition documents (not ours to publish)
+Course Content/
+*.docx
+*.pdf
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
